@@ -11,6 +11,7 @@ package week2;
 //comment added to check the first commit
 //comment added to check the remote repository and pull
 //comment added to check the local repository fetch and merge and pull
+//comment added to check the local repository pull only 
 public class student {
 
     private int std;
