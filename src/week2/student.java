@@ -9,7 +9,8 @@ package week2;
  * @author arman
  */
 //comment added to check the first commit
-//comment added to check the remote repository
+//comment added to check the remote repository and pull
+//comment added to check the local repository fetch and merge and pull
 public class student {
 
     private int std;
