@@ -9,6 +9,8 @@ package week2;
  * @author arman
  */
 //comment added to check the first commit 
+//third comment added to check revert in another way
+
 public class student {
 
     private int std;
