@@ -8,7 +8,8 @@ package week2;
  *
  * @author arman
  */
-//comment added to check the first commit 
+//comment added to check the first commit
+//comment added to check the remote repository
 public class student {
 
     private int std;
